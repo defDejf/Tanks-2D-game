@@ -1,0 +1,4 @@
+newplay 11600
+d 1400
+123 800
+ExamplePlayer 0
