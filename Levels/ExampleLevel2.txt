@@ -1,0 +1,16 @@
+rock 1 1 up
+armorup 2 2 5
+healthup 2 4 10
+armorup 2 9 5
+healthup 7 4 10
+enemytank 4 5 up 10 10 10 10 0
+enemytank 5 6 up 10 10 10 10 0
+enemytank 7 8 up 10 10 10 10 0
+mine 8 9 up 10 1
+mine 8 12 up 10 1
+mine 3 9 up 10 1
+firepowerup 11 10 5
+rock 6 7
+rock 8 17
+rock 17 8
+playertank 11 11
